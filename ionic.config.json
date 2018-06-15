@@ -1,0 +1,8 @@
+{
+  "name": "intake",
+  "app_id": "638af0de",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
